@@ -1,0 +1,47 @@
+.edit-form-container {
+  padding: 20px;
+}
+
+.edit-form {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 20px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.edit-form-row {
+  margin-bottom: 10px;
+}
+
+.edit-form-row label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.btn {
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-success {
+  background-color: #28a745;
+  color: #fff;
+}
+
+.data-saved-message {
+  background-color: #28a745;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.data-row {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-color: #007bff;
+  padding: 10px;
+  margin-bottom: 10px;
+}
